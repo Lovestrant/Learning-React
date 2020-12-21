@@ -1,0 +1,171 @@
+.div2, .div3 {
+    background-color: rgb(160, 150, 150);
+}
+#label1, #label2 {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+#label3{
+    position: absolute;
+    left: 50%;
+    
+}
+#label4 {
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 50%;
+    height: 80px;
+    width: 500px;
+    font-size: 50px;
+    top: 9%;
+
+}
+#btn1{
+    font-weight: bold;
+}
+.retailprice{
+    background-color: red;
+}
+.Wholesaleprice{
+    text-decoration-color: blue;
+}
+#input1{
+    width: 400px;
+}
+#btn2{
+    font-weight: bold;
+}
+
+#input2{
+width: 80px;
+margin-left: 150px;
+}
+#input3{
+    width: 80px;
+    margin-left: 50px;
+}
+
+#label5{
+margin-left: 22%;
+}
+#label6{
+    margin-left: 10%;
+}
+#label7{
+    margin-left: 10%;
+}
+#label8{
+    margin-left: 10%;
+}
+
+#input4{
+    width: 20%;
+}
+#input5{
+    width: 100px;
+    margin-left: 60px;
+}
+#input6{
+    width: 100px;
+    margin-left: 75px;
+}
+#input7{
+    width: 100px;
+    margin-left: 95px;
+}
+#input8{
+    width: 100px;
+    margin-left: 90px;
+
+}
+#btn3{
+    margin-left: 30px;
+    font-weight: bold;
+}
+#btn4{
+    color: brown;
+    margin-top: 10px;
+}
+#label9{
+font-weight: bold;
+margin-left: 30px;
+}
+#label10{
+    font-weight: bold;
+    margin-left: 80px;
+}
+#label11{
+    font-weight: bold;
+    margin-left: 80px;
+    
+}
+#input9{
+width: 100px;
+margin-left: 30px;
+}
+#input10{
+width: 100px;
+margin-left: 20px;
+}
+
+#input11{
+width: 100px;
+margin-left: 20px;
+
+}
+#btn5{
+margin-left: 30px;
+font-weight: bold;
+}
+#btn6{
+    margin-left: 30px;
+    font-weight: bold;
+}
+#btn7{
+    margin-left: 30px;
+}
+#btn8{
+    margin-left: 30px;
+}
+#btn9{
+    margin-left: 30px; 
+}
+th{
+    background-color: black;
+    color: white;
+}
+table, th, td {
+    border: 1px solid rgb(228, 201, 201);
+   
+    
+}
+th{
+    font-size: 30pxs;
+    width: 70%;
+}
+#thfinal{
+    width: 100%;
+    background-color: blanchedalmond;
+}
+#th1, #th2, #th3, #th4, #th5, #thfinal{
+    width: 20%;
+}
+#th1{
+    width: 20%;
+}
+td {
+    height: 20px;
+}
+
+.tablediv{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#label12{
+    color: red;
+}
+#label13{
+    color: blue;
+}
